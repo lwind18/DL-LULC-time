@@ -7,4 +7,4 @@ This repository holds the code and data (some of them) from the published paper:
 *tif files start with "MAP_MCD43A4*" are results that you can use it as an additional data for other geographic problem analysis.
 *The h5 files are trained model. For some of you who want to use it as a pre-trained model.
 
-*The code and data shared at here just for studying and I will not take any responsibility for issues you occurred when you are using the code to process your own data.
+The code and data shared at here just for studying and I will not take any responsibility for issues you occurred when you are using the code to process your own data.
